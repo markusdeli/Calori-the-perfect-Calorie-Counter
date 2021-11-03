@@ -1,0 +1,8 @@
+#header {
+    padding: 20px;
+    font-size: 1.25rem;
+}
+
+body.dark-mode #header {
+    background-color: #101010;
+}
