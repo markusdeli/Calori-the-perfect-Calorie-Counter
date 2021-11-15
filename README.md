@@ -33,22 +33,22 @@ Vom Index ausbeginnend hat der User die Möglichkeit sich zu...
 Registrieren oder wenn er schon einen Account besitzt, sich...
 ![anmelden](docs/pictures/login.PNG)
 
-an zu melden. 
+anzumelden. 
 ![nach login](docs/pictures/screenNachLogin.PNG)
 
-Nach dem Login wird auf diese View weitergeleitet. In dieser View hat der Nutzer direkten Einblick auf alles zentralen Features.
-So kann der User jetzt die erste Mahlzeit hinzufügen.
+Nach dem Login wird auf diese View weitergeleitet. In dieser View hat der Nutzer direkten Einblick auf alle zentralen Features.
+Der User kann jetzt die erste Mahlzeit hinzufügen.
 ![mahlzeit](docs/pictures/neuesGerichtErstellen.PNG)
 
 Hat man die Mahlzeit erstellt, so kann man diese nun zu den "heute gegessenen hinzufügen".
 ![gegessen](docs/pictures/neuemahlzeithinzu.PNG)
 
-Ein weiteres zentrales Feature für den User ist nun, dass er sein Bewegung "tracken" kann.
+Ein weiteres zentrales Feature für den User ist nun, dass er seine Bewegung "tracken" kann.
 ![bewegung tracken](docs/pictures/aktivitätHinzufügen.PNG)
 
 Nun sind genung Daten vorhanden, dass sich ein erster Blick auf die Auswertung lohnt.
 ![Auswertung](docs/pictures/auswertung.PNG)
 
-Selbstverständlich kann man als User seine bei der Registrierung angegeben Daten auch noch ändern.
+Selbstverständlich kann man als User seine bei der Registrierung angegeben Daten noch ändern.
 ![user daten](docs/pictures/einstellungen.PNG)
 
